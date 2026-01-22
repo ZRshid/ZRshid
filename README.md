@@ -1,6 +1,6 @@
 # Hi 👋, I'm Zakariya
 
-**Data Engineer | AWS Certified (In Progress) | Transforming raw data into actionable business insights through scalable cloud-native ETL pipelines**
+**Data Engineer  Transforming raw data into actionable business insights through scalable cloud-native ETL pipelines**
 
 My journey into data engineering started from curiosity about how raw data can be transformed into real business value.  
 I’m learning every day and excited to share what I pick up along the way.
@@ -26,13 +26,16 @@ I’m learning every day and excited to share what I pick up along the way.
 **Tools:** Python, AWS (S3, Lambda, EventBridge, CloudWatch, SNS), Terraform, GitHub Actions, Pandas  
 
 ---
-### ✈️ Jet2-Style Booking Data Pipeline *(In Progress)*
-- Designing **modular ETL pipelines** containerized with Docker to transform booking data from PostgreSQL and stage in AWS S3  
-- Loading curated datasets into **Amazon Redshift** applying optimized data modeling principles  
-- Developing **Looker Studio dashboards** for business trends visualization  
-- Embedding validation and schema checks to maintain high-quality datasets  
+### ✈️ Airline Revenue ETL Pipeline 
+- **Docker containerized** Python ETL pipeline (Extract → Transform → Load)  
+- **Production-ready** with docker-compose + PostgreSQL + **Amazon Athena** integration  
+- Modular architecture: `src/extract/`, `src/transform/`, `src/load/`  
+- **S3 integration** - reads from `raw-data-zak`, writes to `processed-data-zak`  
+- **Tableau dashboards** visualizing revenue trends and booking analytics  
+- Comprehensive logging and error handling for data quality  
 
-**Tools:** Python, PostgreSQL, AWS S3, Redshift, Docker, Pandas, Looker Studio  
+**Tools:** Python 3.13, Docker, docker-compose, PostgreSQL, **Amazon Athena**, **Tableau**, Pandas, AWS S3
+
 
 ---
 ## 💻 Tech Stack & Skills
