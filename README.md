@@ -2,8 +2,6 @@
 
 **Data Engineer | AWS Certified (In Progress) | Transforming raw data into actionable business insights through scalable cloud-native ETL pipelines**
 
-✍️ I’ve started writing on [Medium](https://medium.com/@zrshid) about data engineering and AWS, no posts yet, but coming soon! 👀
-
 My journey into data engineering started from curiosity about how raw data can be transformed into real business value.  
 I’m learning every day and excited to share what I pick up along the way.
 
