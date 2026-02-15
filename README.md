@@ -16,10 +16,6 @@ Dockerised Python pipeline (PostgreSQL → AWS S3 → Athena/Redshift) with modu
 
 Power BI dashboard analysing £53M in claims, identifying £15M in potential fraud and high-risk patterns.
 
-**[AWS Lambda ETL Pipeline (Team Project)](https://github.com/ZRshid/TerrificTotes)**  
-
-Serverless ETL with validation, monitoring (CloudWatch + SNS), Terraform IaC, and CI/CD via GitHub Actions.
-
 ---
 ## 🛠 Tech Stack
 **Languages:** Python, SQL  
